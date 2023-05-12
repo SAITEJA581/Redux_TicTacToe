@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Redux_TicTacToe/static/css/main.3e51e48c.css",
+    "main.js": "/Redux_TicTacToe/static/js/main.d10e3740.js",
+    "index.html": "/Redux_TicTacToe/index.html",
+    "main.3e51e48c.css.map": "/Redux_TicTacToe/static/css/main.3e51e48c.css.map",
+    "main.d10e3740.js.map": "/Redux_TicTacToe/static/js/main.d10e3740.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e51e48c.css",
+    "static/js/main.d10e3740.js"
+  ]
+}
